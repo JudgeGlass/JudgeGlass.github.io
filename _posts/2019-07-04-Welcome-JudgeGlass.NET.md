@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to JudgeGlass.NET"
-date: 2019-07-04 16:25:06 -0700
+date: 2019-07-04 12:07:06 -0700
 comments: true
 ---
 
