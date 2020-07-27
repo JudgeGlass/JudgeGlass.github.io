@@ -9,6 +9,14 @@ Since about July of 2019, I’ve been making a 2D game engine entirely in the Ja
 
 ```java
 // A basic Example
+
+import net.judgeglass.tilegame.player.Player;
+import net.judgeglass.tilegame.player.PlayerMovement;
+import net.judgeglass.tilegame.ui.HUD;
+import net.judgeglass.tilegame.world.TestBlock;
+import net.judgeglass.jgameengine.core.io.SpriteSheet;
+import net.judgeglass.jgameengine.gfx.Screen;
+
 public class Main{
     private static SpriteSheet spriteSheet = new SpriteSheet("file.png");
 
