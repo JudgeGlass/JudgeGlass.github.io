@@ -34,4 +34,4 @@ public class Main{
 }
 ```
 
-![Tetris.PNG](https://www.zicron.net/images/Tetris.png "Tetris Example")
+![Tetris.PNG](https://www.judgeglass.net/images/Tetris.png "Tetris Example")
