@@ -14,9 +14,9 @@ This is an attempt to make a Minecraft clone in Java and LWJGL. It will soon hav
 2. blocks sometimes disapper
 
 ### Pictures
-![MCCLONE](https://judgeglass.net/images/yq78h9bk.bmp "MCCLONE IMG1")
+![MCCLONE](https://www.judgeglass.net/images/yq78h9bk.bmp "MCCLONE IMG1")
 
-![MCCLONE2](https://judgeglass.net/images/1vzifcya.bmp "MCCLONE MENU")
+![MCCLONE2](https://www.judgeglass.net/images/1vzifcya.bmp "MCCLONE MENU")
 
 ### Installing
 You can install this product for free. It requires .NET framework 4.5+ <br>

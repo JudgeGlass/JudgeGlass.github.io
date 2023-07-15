@@ -27,10 +27,10 @@ sudo ./Menu.sh
 ```
 
 Press OK on the dialog and when it’s done installing the required software, you will see this
-![EULAMessage](https://judgeglass.net/images/lkt9d2ou.bmp "EULA Message")
+![EULAMessage](https://www.judgeglass.net/images/lkt9d2ou.bmp "EULA Message")
 
 Press yes (If you accept their agreement)
 
 Once that is done, you will see this.
 
-![Menu](https://judgeglass.net/images/q2l3eijg.bmp "Main Menu")
+![Menu](https://www.judgeglass.net/images/q2l3eijg.bmp "Main Menu")
